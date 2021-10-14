@@ -198,6 +198,10 @@ h1 {
 	font-weight: bold;
 }
 
+.byline {
+	font-size: 17pt;
+}
+
 /* FOR SMALLER SCREENS */
 @media ( max-width:  700px) 
 
