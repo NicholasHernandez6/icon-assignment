@@ -36,7 +36,10 @@ h1 {
 	font-family: helvetica;
 	margin-top: 10px;
 	padding-right: 80px;
-	font-size: 18pt;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-top: 20px;
+	font-size: 16pt;
 }
 
 .title1{
@@ -50,7 +53,10 @@ h1 {
 	font-family: helvetica;
 	margin-top: 10px;
 	padding-right: 80px;
-	font-size: 17pt;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-top: 20px;
+	font-size: 16pt;
 }
 .garden {
 	display: flex;
@@ -98,7 +104,10 @@ h1 {
 	font-family: helvetica;
 	margin-top: 10px;
 	padding-right: 80px;
-	font-size: 17pt;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-top: 20px;
+	font-size: 16pt;
 }
 
 .market {
@@ -130,6 +139,9 @@ h1 {
 	font-family: helvetica;
 	margin-top: 10px;
 	padding-right: 80px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-top: 20px;
 	font-size: 17pt;
 }
 
@@ -154,7 +166,10 @@ h1 {
 	font-family: helvetica;
 	margin-top: 10px;
 	padding-right: 80px;
-	font-size: 18pt
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-top: 20px;
+	font-size: 20pt
 }
 
 
@@ -176,11 +191,6 @@ h1 {
 	font-weight: bold;
 }
 
-img{ max-width:50%}
 /* FOR SMALLER SCREENS */
-@media ( max-width:  700px) {
-	body{ 
-		background-color: #DCFCCE;
-		width: 100%; 
-}
+@media ( max-width:  700px) 
 
